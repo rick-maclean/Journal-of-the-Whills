@@ -51,33 +51,13 @@ time.
 Han Shoots First. All is well with the universe!
 
 
-```
-                                   __ 1      1 __        _.xxxxxx.
-                 **[xxxxxxxxxxxxxx|##|xxxxxxxx|##|xxxxxxXXXXXXXXX|
- ____            **[XXXXXXXXXXXXXXXXXXXXX/.\||||||XXXXXXXXXXXXXXX|
-|::: `-------.-.__**[=========---___/::::|::::::|::::||X O^XXXXXX|
-|::::::::::::|2|%%%%%%%%%%%%\::::::::::|::::::|::::||X /
-|::::,-------|_|~~~~~~~~~~~~~`---=====-------------':||  5
- ~~~~                       |===|:::::|::::::::|::====:\O
-                            |===|:::::|:.----.:|:||::||:|
-                            |=3=|::4::`'::::::`':||__||:|
-                            |===|:::::::/  ))\:::`----':/
-                            `===|::::::|  // //~`######b
-                                `--------=====/  ######B
-                                                 `######b
-                                                  #######b
-                                                  #######B
-                                                  `#######b
-                                                   #######P
-                                                   `#####B
 
-```
 
 **[HAN]**  Sorry about the mess.
 
 
 
-<!-- Awesome Jabba Scene!!!
+Awesome Jabba Scene!!!
 ```
 
                                                               `.-::////::-..`                    
@@ -111,4 +91,4 @@ Han Shoots First. All is well with the universe!
   `:+oooooossh/                                                                                   
      `-/+ooo+-                                                                                    
 ```
-End Scene   -->
+End Scene  
