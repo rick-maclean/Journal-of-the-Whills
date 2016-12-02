@@ -30,8 +30,8 @@ INT. DEATH STAR - MAIN GANTRY - COMMAND OFFICE
 A soft buzzer and the muted voice of Luke calling out for
 See-Threepio can be heard on Threepio's hand comlink, which
 is sitting on the deserted computer console. Artoo and
-Threepio are nowhere in sight. A door opens,
- four armed stormtroopers enter the chamber.
+Threepio are nowhere in sight. A door opens
+and four armed stormtroopers enter the chamber.
 
 **[FIRST TROOPER]**
 Take over!
